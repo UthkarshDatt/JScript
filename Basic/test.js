@@ -82,9 +82,9 @@ let lastActivityInBool = Boolean(lastActivity)
 // Hence the difference in results.
 
 
-console.log("2"==2) //true
-console.log("3"==2) //false
-console.log("2"===2) //false
-console.log(2===2) //true // === is strict equality operator. It checks for both value and type.
+// console.log("2"==2) //true
+// console.log("3"==2) //false
+// console.log("2"===2) //false
+// console.log(2===2) //true // === is strict equality operator. It checks for both value and type.
 
 
